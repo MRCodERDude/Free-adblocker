@@ -1,0 +1,34 @@
+[
+  {
+    "type": "id",
+    "value": "ad-banner"
+  },
+  {
+    "type": "id",
+    "value": "top-ad"
+  },
+  {
+    "type": "id",
+    "value": "sidebar-ad"
+  },
+  {
+    "type": "class",
+    "value": "ad-container"
+  },
+  {
+    "type": "class",
+    "value": "sponsored-content"
+  },
+  {
+    "type": "class",
+    "value": "ad-block"
+  },
+  {
+    "type": "class",
+    "value": "adsbygoogle"
+  },
+  {
+    "type": "class",
+    "value": "advertisement"
+  }
+]
